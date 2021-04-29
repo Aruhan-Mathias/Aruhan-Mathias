@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aruhan-Mathias&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aruhan-Mathias&layout=compact&langs_count=8&theme=prussian"/>
+   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aruhan-Mathias&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aruhan-Mathias&layout=compact&langs_count=8&theme=prussian"/>
 </div>
   
 ---
